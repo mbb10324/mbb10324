@@ -14,6 +14,7 @@
 - 🌐 Fun games created in Web3
 - 🎮 Video game addons written in Lua
 - ...and so much more!
-Each of these projects has challenged me in unique ways, allowing me to stay sharp and keep pace with the ever-evolving world of software development. I’m passionate about learning and constantly improving, and I hope my work inspires others in their own journey.
+  
+#### Each of these projects has challenged me in unique ways, allowing me to stay sharp and keep pace with the ever-evolving world of software development. I’m passionate about learning and constantly improving, and I hope my work inspires others in their own journey.
 
 #### Want to chat or learn more about me? Curious about my work in private repositories or on GitLab? Feel free to reach out at milesbreman@gmail.com! ✉️
